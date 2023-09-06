@@ -1,6 +1,6 @@
 import merge from "lodash.merge";
 import dotenv from "dotenv";
-dotenv.config();
+// dotenv.config();
 
 const stage: string = process.env.NODE_ENV!;
 
